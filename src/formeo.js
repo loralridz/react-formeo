@@ -1,5 +1,5 @@
-import React, { createRef, useEffect } from 'react'
-import { FormeoEditor, FormeoRenderer } from 'formeo'
+import React, { createRef, useEffect } from 'react';
+import { FormeoEditor, FormeoRenderer } from 'formeo';
 import 'formeo/dist/formeo.min.css'
 
 export const FormEditor = () => {
